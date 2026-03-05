@@ -1,0 +1,20 @@
+{
+    "name": "简栈在线开发平台",
+    "short_name": "JianStack",
+    "description": "极简工具，即刻开发 - 程序员必备在线工具箱",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#1a1a2e",
+    "theme_color": "#e94560",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["developer", "productivity", "utilities"],
+    "lang": "zh-CN"
+}
